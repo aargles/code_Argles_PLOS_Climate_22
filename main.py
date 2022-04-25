@@ -77,7 +77,7 @@ if __name__ == '__main__':
     # Figure Data is stored in data_dir
     # Here we use demonstrate the methods used in generating certain figure results.
     #  
-    # Other sources of data are provided in 'data/datainfo.txt', not all data is
+    # Other sources of data are provided in 'data/readme.txt', not all data is
     # generated here in methods_mod.py.
     #
     # Uncomment For function description
