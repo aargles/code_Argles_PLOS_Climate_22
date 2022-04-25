@@ -1,0 +1,28 @@
+feature name,space center (m2),time center (yr),min space (m2),max space (m2),min time (yr),max time (yr),plot feature,text pos,text rotation,zorder
+Leaf,,,0.01,2.82,5.7e-05,4.0,Rectangle,top center,0,0
+Plant,,,0.01,100.0,0.0274,600.0,Rectangle,top center,0,0
+Stand,,,10.0,100000.0,4.0,1000.0,Rectangle,top center,0,0
+Landscape,,,1000000.0,10000000000.0,10.0,10000.0,Rectangle,top right,0,0
+Biome,,,1000000000.0,1000000000000.0,316.0,1000000.0,Rectangle,top left,0,0
+Phenology,0.662,0.0417,,,,,Text (Leaf),,0,2
+Stomatal Diurnal Processes,0.662,0.000456,,,,,Text (Leaf),,0,2
+Secondary Succession,314000.0,314.0,,,,,Text (endogenous),,0,2
+Primary Succession,100000000.0,6670.0,,,,,Text (endogenous),,0,2
+Gap-Phase Competition,10.0,5.0,,,,,Text (endogenous),,0,2
+Recruitment,0.662,0.362,,,,,Text (endogenous),,0,2
+Evolution,1000000000000.0,10000000.0,,,,,Text (endogenous),,0,2
+Disturbance,5620.0,0.316,,,,,Text (exogenous),,0,2
+Pathogens,1670.0,4.64,,,,,Text (exogenous),,0,2
+Fire Regime,21500.0,21.5,,,,,Text (exogenous),,0,2
+Human Activities,2150000.0,100.0,,,,,Text (exogenous),,0,2
+Climatic Fluctuations,100000000.0,2150.0,,,,,Text (exogenous),,0,2
+Soil Development,10000000.0,21500.0,,,,,Text (exogenous),,0,2
+Glacial-Interglacial Climate Cycles,1000000000000.0,215000.0,,,,,Text (exogenous),,0,2
+Hour,,,0.01,5000000000000000.0,0.000114077,0.000114077,Line,top left,0,0
+Day,,,0.01,5000000000000000.0,0.002737851,0.002737851,Line,top left,0,0
+Year,,,0.01,5000000000000000.0,1.0,1.0,Line,top left,0,0
+CMIP (250 yr),,,0.01,5000000000000000.0,250.0,250.0,Line (model),top left,0,0
+Amazon Rainforest,,,5500000000000.0,5500000000000.0,5.7e-05,300000000.0,Line,center left,-90,0
+Global Land Area,,,149000000000000.0,149000000000000.0,5.7e-05,300000000.0,Line,center left,-90,0
+Gridbox Area Min,,,1188927892.0,1188927892.0,5.7e-05,250.0,Line (model),center left,-90,0
+Gridbox Area Max,,,29117843884.0,29117843884.0,5.7e-05,250.0,Line (model),center left,-90,0
